@@ -23,6 +23,7 @@ This project uses Flask, SQLAlchemy, and JWT for token-based authentication.
    ```bash
    git clone https://github.com/twumasij/secure-rest-api-login.git
    cd secure-rest-api-login
+```php
 your_project/
 ├── app.py
 ├── auth.py
@@ -31,3 +32,4 @@ your_project/
 ├── models.py
 ├── requirements.txt
 └── README.md
+```
